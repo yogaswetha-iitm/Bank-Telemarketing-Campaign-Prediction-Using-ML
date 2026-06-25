@@ -113,10 +113,15 @@ Models are evaluated using:
 Bank-Telemarketing-Campaign-Prediction/
 
 │
+
 ├── README.md
+
 ├── requirements.txt
+
 └── notebook/
+
 └── bank_telemarketing_prediction.ipynb
+
 
 ## 🚧 Project Status
 
