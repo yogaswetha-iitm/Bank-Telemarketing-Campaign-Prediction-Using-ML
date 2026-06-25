@@ -110,3 +110,24 @@ Models are evaluated using:
 
 
 ## 📁 Project Structure
+Bank-Telemarketing-Campaign-Prediction/
+
+│
+├── README.md
+├── requirements.txt
+└── notebook/
+└── bank_telemarketing_prediction.ipynb
+
+## 🚧 Project Status
+
+This project is currently under evaluation and development.
+
+The complete notebook, experiments, model results, and final analysis will be uploaded to this repository once the project is completed.
+
+## 🔮 Future Improvements
+
+- Hyperparameter tuning for better model performance
+- Feature importance analysis
+- Model comparison with additional algorithms
+- Deployment using Flask/Streamlit
+- Creating an interactive prediction interface
